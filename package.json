@@ -11,5 +11,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/tjaneczko/changelog-test.git"
+  },
+  "devDependencies": {
+    "gh-release": "^3.3.2"
   }
 }
